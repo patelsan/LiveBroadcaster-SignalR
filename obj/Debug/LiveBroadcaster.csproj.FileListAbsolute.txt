@@ -1,0 +1,8 @@
+\\vmware-host\shared folders\documents\LiveBroadcaster\LiveBroadcaster\bin\Debug\LiveBroadcaster.exe.config
+\\vmware-host\shared folders\documents\LiveBroadcaster\LiveBroadcaster\bin\Debug\LiveBroadcaster.exe
+\\vmware-host\shared folders\documents\LiveBroadcaster\LiveBroadcaster\bin\Debug\LiveBroadcaster.pdb
+\\vmware-host\shared folders\documents\LiveBroadcaster\LiveBroadcaster\obj\Debug\LiveBroadcaster.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\LiveBroadcaster\LiveBroadcaster\obj\Debug\LiveBroadcaster.exe
+\\vmware-host\shared folders\documents\LiveBroadcaster\LiveBroadcaster\obj\Debug\LiveBroadcaster.pdb
+\\vmware-host\shared folders\documents\LiveBroadcaster\LiveBroadcaster\bin\Debug\PusherServer.dll
+\\vmware-host\shared folders\documents\LiveBroadcaster\LiveBroadcaster\bin\Debug\RestSharp.dll
