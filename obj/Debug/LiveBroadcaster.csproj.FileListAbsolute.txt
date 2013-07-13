@@ -6,3 +6,22 @@
 \\vmware-host\shared folders\documents\LiveBroadcaster\LiveBroadcaster\obj\Debug\LiveBroadcaster.pdb
 \\vmware-host\shared folders\documents\LiveBroadcaster\LiveBroadcaster\bin\Debug\PusherServer.dll
 \\vmware-host\shared folders\documents\LiveBroadcaster\LiveBroadcaster\bin\Debug\RestSharp.dll
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\LiveBroadcaster.exe.config
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\obj\Debug\LiveBroadcaster.exe
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\obj\Debug\LiveBroadcaster.pdb
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\obj\Debug\LiveBroadcaster.csprojResolveAssemblyReference.cache
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\LiveBroadcaster.exe
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\LiveBroadcaster.pdb
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Newtonsoft.Json.dll
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Newtonsoft.Json.xml
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Microsoft.Owin.dll
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Microsoft.Owin.Security.dll
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Owin.dll
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Microsoft.Owin.xml
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Sanjay\Experiments\LiveBroadcaster-SignalR\bin\Debug\Microsoft.Owin.Security.xml
